@@ -1,3 +1,5 @@
+![Screenshot 2021-01-07 at 9 36 41 PM](https://user-images.githubusercontent.com/49443497/103914866-70f02b00-5130-11eb-8ac5-c03895b1686f.png)
+
 About the project:
 The purpose of this project is to build a basic model system of water irrigation
 and integrate this into an advanced model which can be produced and successfully
